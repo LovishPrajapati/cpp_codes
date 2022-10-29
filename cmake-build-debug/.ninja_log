@@ -1,0 +1,22 @@
+# ninja log v5
+3	895	1666718920536386708	CMakeFiles/cpp_codes.dir/pattern/pattern1.cpp.o	cce4890fa5aa7b00
+899	2002	1666718921646130587	CMakeFiles/cpp_codes.dir/pattern/pattern10.cpp.o	359dee9d42c7c93d
+3	902	1666718920540186442	CMakeFiles/cpp_codes.dir/Arrays/selectionSort.cpp.o	59b9476583a1484d
+935	2022	1666718921666859068	CMakeFiles/cpp_codes.dir/pattern/pattern3.cpp.o	a6799cd0594a5255
+2	957	1666718920599432890	CMakeFiles/cpp_codes.dir/Arrays/insertionSort.cpp.o	d4847d69dbfe806d
+910	2034	1666718921678960637	CMakeFiles/cpp_codes.dir/pattern/pattern2.cpp.o	93731a4b5d142a67
+2	910	1666718920552344094	CMakeFiles/cpp_codes.dir/Arrays/linearSearch.cpp.o	deee9a2b640761f1
+2007	3062	1666718922706873213	CMakeFiles/cpp_codes.dir/pattern/pattern7.cpp.o	ba2c42ccbf0c60cf
+0	935	1666718920575713286	CMakeFiles/cpp_codes.dir/Arrays/binarySearch.cpp.o	a10dedcc09742ca8
+902	2007	1666718921648169765	CMakeFiles/cpp_codes.dir/pattern/pattern11.cpp.o	db6a5dd8d5a00718
+1	960	1666718920598713984	CMakeFiles/cpp_codes.dir/Arrays/bubbleSort.cpp.o	953c377338b77d78
+2017	3045	1666718922689905759	CMakeFiles/cpp_codes.dir/pattern/pattern8.cpp.o	f612640e2a50a23e
+3045	3694	1666718923344101678	CMakeFiles/cpp_codes.dir/stack.cpp.o	45c0e4f4d822a0f3
+2022	3067	1666718922712866123	CMakeFiles/cpp_codes.dir/pattern/pattern9.cpp.o	5aaa9021b1046dc3
+957	2060	1666718921703466728	CMakeFiles/cpp_codes.dir/pattern/pattern4.cpp.o	36b1b0826083268a
+2034	3095	1666718922742619259	CMakeFiles/cpp_codes.dir/helloworld.cpp.o	cf7c2bee1d596288
+2002	3057	1666718922700807679	CMakeFiles/cpp_codes.dir/pattern/pattern6.cpp.o	12fa38a504baf645
+6	358	1667052840879227073	CMakeFiles/cpp_codes.dir/Arrays/2367.cpp.o	6850f641ebc9fd2c
+358	414	1667052840936680920	cpp_codes	b10f703635cf3f6a
+961	2017	1666718921662796004	CMakeFiles/cpp_codes.dir/pattern/pattern5.cpp.o	ec16b21c85c16b82
+2060	3121	1666718922768879573	CMakeFiles/cpp_codes.dir/queue.cpp.o	8d6f1871942f3a3
